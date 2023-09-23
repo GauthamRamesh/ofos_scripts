@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="test_Scripts.TC_OFOS_006"/>
+      <class name="test_Scripts.TC_OFOS_005"/>
+      <class name="test_Scripts.TC_OFOS_008"/>
+      <class name="test_Scripts.TC_OFOS_007"/>
+      <class name="test_Scripts.TC_OFOS_009"/>
+      <class name="test_Scripts.TC_OFOS_00Login"/>
+      <class name="test_Scripts.TC_OFOS_020"/>
+      <class name="test_Scripts.TC_OFOS_022"/>
+      <class name="test_Scripts.TC_OFOS_021"/>
+      <class name="test_Scripts.TC_OFOS_002"/>
+      <class name="test_Scripts.TC_OFOS_024"/>
+      <class name="test_Scripts.TC_OFOS_001"/>
+      <class name="test_Scripts.TC_OFOS_023"/>
+      <class name="test_Scripts.TC_OFOS_004"/>
+      <class name="test_Scripts.TC_OFOS_003"/>
+      <class name="test_Scripts.TC_OFOS_025"/>
+      <class name="test_Scripts.TC_OFOS_017"/>
+      <class name="test_Scripts.TC_OFOS_016"/>
+      <class name="test_Scripts.TC_OFOS_019"/>
+      <class name="test_Scripts.TC_OFOS_018"/>
+      <class name="test_Scripts.TC_OFOS_011"/>
+      <class name="test_Scripts.TC_OFOS_010"/>
+      <class name="test_Scripts.TC_OFOS_013"/>
+      <class name="test_Scripts.TC_OFOS_012"/>
+      <class name="test_Scripts.TC_OFOS_015"/>
+      <class name="test_Scripts.TC_OFOS_014"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
